@@ -1,0 +1,7 @@
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\bin\Debug\Session.dll
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\bin\Debug\Session.pdb
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\bin\Debug\Domain.dll
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\bin\Debug\Domain.pdb
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\obj\Debug\Session.dll
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Session\obj\Debug\Session.pdb

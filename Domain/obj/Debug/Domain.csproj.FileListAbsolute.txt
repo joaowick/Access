@@ -1,0 +1,5 @@
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Domain\bin\Debug\Domain.dll
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Domain\bin\Debug\Domain.pdb
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Domain\obj\Debug\Domain.dll
+c:\Users\joaot\documents\visual studio 2012\Projects\Access\Domain\obj\Debug\Domain.pdb

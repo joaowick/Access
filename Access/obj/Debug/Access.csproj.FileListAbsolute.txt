@@ -1,0 +1,16 @@
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Access.exe.config
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Access.exe
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Access.pdb
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.Properties.Resources.resources
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.csproj.GenerateResource.Cache
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.exe
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.pdb
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\obj\Debug\Access.Form1.resources
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Domain.dll
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Session.dll
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Domain.pdb
+c:\users\joaot\documents\visual studio 2012\Projects\Access\Access\bin\Debug\Session.pdb
+C:\Users\joaot\Documents\Visual Studio 2012\Projects\CSharpAndAccess\Access\bin\Debug\Access.exe.config
+C:\Users\joaot\Documents\Visual Studio 2012\Projects\CSharpAndAccess\Access\obj\Debug\Access.exe
+C:\Users\joaot\Documents\Visual Studio 2012\Projects\CSharpAndAccess\Access\obj\Debug\Access.pdb
